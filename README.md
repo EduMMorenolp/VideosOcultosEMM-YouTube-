@@ -2,12 +2,19 @@
 Lista de Videos ocultos de mi Canal de Youtube
 
 REDES Edu M Moreno
-[YOUTUBE] : https://lnkd.in/djZ-DMnX
+
+[YOUTUBE] : https://lnkd.in/djZ-DMnX 
+
 [TWITCH] : www.twitch.tv/edummorenolp
-[LINKEDIN] : https://lnkd.in/d_zsAfDj
+
+[LINKEDIN] : https://www.linkedin.com/in/eduardo-m-moreno-programador/
+
 [INSTAGRAM] : https://lnkd.in/dXfDNeFG
-[GITHUB] : github.com/EduMMorenolp
-[TWITTER] : twitter.com/EduMMorenolp
+
+[GITHUB] : : https://github.com/EduMMorenolp
+
+[TWITTER] : : https://twitter.com/EduMMorenolp
+
 
 
 # APRENDIENDO JAVASCRIPT.

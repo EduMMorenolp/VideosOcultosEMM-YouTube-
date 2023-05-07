@@ -1,6 +1,14 @@
 # VideosOcultosEMM-YouTube-
 Lista de Videos ocultos de mi Canal de Youtube
 
+REDES Edu M Moreno
+[YOUTUBE] : https://lnkd.in/djZ-DMnX
+[TWITCH] : www.twitch.tv/edummorenolp
+[LINKEDIN] : https://lnkd.in/d_zsAfDj
+[INSTAGRAM] : https://lnkd.in/dXfDNeFG
+[GITHUB] : github.com/EduMMorenolp
+[TWITTER] : twitter.com/EduMMorenolp
+
 
 # APRENDIENDO JAVASCRIPT.
 

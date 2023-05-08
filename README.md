@@ -22,6 +22,10 @@ REDES Edu M Moreno
 
 # APRENDIENDO JAVASCRIPT.
 
+Aprendiendo JS (JavaScript) - Leccion  1 Introduccion
+
+https://youtu.be/s9mSsBU6_9o
+
 Aprendiendo JS (JavaScript) - Leccion 06 Arreglos
 
 https://youtu.be/dw9OXQltu4g
@@ -64,6 +68,16 @@ Aprendiendo JS (JavaScript) - Leccion  15 Promesas
 
 https://youtu.be/0H0qibnwlvo
 
-Estoy Aprendiendo JS (JavaScript) - Leccion  16 DOM (parte 1)
+Aprendiendo JS (JavaScript) - Leccion  16 DOM (parte 1)
+Aprendiendo JS (JavaScript) - Leccion  16 DOM (parte 2)
 
 https://youtu.be/2La2S_VfwYE
+https://youtu.be/lKjAfUDi9ZI
+
+Aprendiendo JS (JavaScript) - Leccion  17 Eventos DOM
+
+https://youtu.be/t6SyyRg4aG4
+
+Muchas Gracias por ver. 
+# Puedes Ayudar con un Like y Subcripcion al Canal 
+# No olvides dejar Una Estrellita al Repositorio. 

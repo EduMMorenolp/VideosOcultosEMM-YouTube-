@@ -35,9 +35,11 @@ Aprendiendo JS (JavaScript) - Leccion  07 Funciones
 https://youtu.be/JWItL38s8oY
 
 Aprendiendo JS (JavaScript) - Leccion  08 Objetos (Parte 1)
-Aprendiendo JS (JavaScript) - Leccion  08 Objetos (Parte 2)
 
 https://youtu.be/44Dgoif_MuY
+
+Aprendiendo JS (JavaScript) - Leccion  08 Objetos (Parte 2)
+
 https://youtu.be/YbS5hRTgbR4
 
 Aprendiendo JS (JavaScript) - Leccion  09 Clases
@@ -69,9 +71,11 @@ Aprendiendo JS (JavaScript) - Leccion  15 Promesas
 https://youtu.be/0H0qibnwlvo
 
 Aprendiendo JS (JavaScript) - Leccion  16 DOM (parte 1)
-Aprendiendo JS (JavaScript) - Leccion  16 DOM (parte 2)
 
 https://youtu.be/2La2S_VfwYE
+
+Aprendiendo JS (JavaScript) - Leccion  16 DOM (parte 2)
+
 https://youtu.be/lKjAfUDi9ZI
 
 Aprendiendo JS (JavaScript) - Leccion  17 Eventos DOM

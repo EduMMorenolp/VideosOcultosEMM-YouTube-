@@ -15,6 +15,9 @@ REDES Edu M Moreno
 
 [TWITTER] : : https://twitter.com/EduMMorenolp
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/EduMYT/count.svg?"  />
+</div>
 
 
 # APRENDIENDO JAVASCRIPT.

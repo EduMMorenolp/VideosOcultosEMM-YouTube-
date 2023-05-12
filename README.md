@@ -23,7 +23,7 @@ REDES Edu M Moreno
 
 Aprendiendo Java - Leccion  39 Api de Collections
 
-https://www.youtube.com/watch?v=d8zjntVP5WQ
+https://youtu.be/d8zjntVP5WQ
 
 # APRENDIENDO JAVASCRIPT.
 

@@ -25,6 +25,38 @@ Aprendiendo Java - Leccion  39 Api de Collections
 
 https://youtu.be/d8zjntVP5WQ
 
+# APRENDIENDO TYPESCRIPT
+
+< RECOMENDABLE ANTES VER JAVASCRIPT >
+
+Aprendiendo TS (Typescript) - Leccion  01 Introduccion
+
+https://youtu.be/lYeCnJObSkI
+
+Aprendiendo TS (Typescript) - Leccion 02 Clases
+
+https://youtu.be/yhR1mCOklJg
+
+Aprendiendo TS (Typescript) - Leccion 03 - Interfaces
+
+https://youtu.be/HqTF1OgBt4s
+
+Aprendiendo TS (Typescript) - Leccion 04 - Generics
+
+https://youtu.be/hEn-1w305lM
+
+Aprendiendo TS (Typescript) - Leccion 05 - Modulos
+
+https://youtu.be/gCm4ZRTpq08
+
+Aprendiendo TS (Typescript) - Leccion 06 - Funcion Flecha
+
+https://youtu.be/h6SPUZxovLM
+
+Aprendiendo TS (Typescript) - Leccion 07 - Decoradores
+
+https://youtu.be/_CKYIl-nOZM
+
 # APRENDIENDO JAVASCRIPT.
 
 Aprendiendo JS (JavaScript) - Leccion  1 Introduccion
